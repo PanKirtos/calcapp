@@ -1,0 +1,6 @@
+*.iml
+.idea
+# Project exclude paths
+/out/
+/src/calc.java
+/.gitignore
